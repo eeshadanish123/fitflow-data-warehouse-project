@@ -1,5 +1,3 @@
-# fitflow-data-warehouse-project
-
 # FitFlow Fitness Data Warehouse & Analytics Project
 
 ## Overview
